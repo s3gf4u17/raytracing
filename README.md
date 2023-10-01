@@ -39,6 +39,6 @@
   <tr>
   <td width="33.3%"><img src="/images/image10.png?raw=true"/></td>
   <td width="33.3%"><img src="/images/image11.png?raw=true"/></td>
-  <td width="33.3%"><img src="/images/image11.png?raw=true"/></td>
+  <td width="33.3%"><img src="/images/image12.png?raw=true"/></td>
   </tr>
 </table>
