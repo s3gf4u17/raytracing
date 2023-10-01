@@ -51,4 +51,14 @@
   <td width="33.3%"><img src="/images/image15.png?raw=true"/></td>
   <td width="33.3%"><img src="/images/image16.png?raw=true"/></td>
   </tr>
+  <tr>
+  <td width="33.3%" align="center">Movable Camera</td>
+  <td width="33.3%" align="center"></td>
+  <td width="33.3%" align="center"></td>
+  </tr>
+  <tr>
+  <td width="33.3%"><img src="/images/image17.png?raw=true"/></td>
+  <td width="33.3%"></td>
+  <td width="33.3%"></td>
+  </tr>
 </table>
