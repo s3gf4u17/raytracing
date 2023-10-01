@@ -57,7 +57,7 @@
   <td width="33.3%" align="center"></td>
   </tr>
   <tr>
-  <td width="33.3%"><img src="/images/image17.png?raw=true"/></td>
+  <td width="33.3%"><img src="/images/image18.png?raw=true"/></td>
   <td width="33.3%"></td>
   <td width="33.3%"></td>
   </tr>
