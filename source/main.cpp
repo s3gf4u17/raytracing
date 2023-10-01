@@ -10,11 +10,11 @@ int main() {
     // world
     hittable_list world;
     auto material_lambertian1 = make_shared<lambertian>(color(0.8, 0.8, 0.0));
-    auto material_lambertian2 = make_shared<lambertian>(color(0.8, 0.4, 0.8));
-    auto material_metal1 = make_shared<metal>(color(0.8, 0.8, 0.8),0.2);
-    auto material_metal2 = make_shared<metal>(color(0.8, 0.8, 0.8),1.0);
-    world.add(make_shared<sphere>(point3(-1,0,-1),0.5,material_metal1));
-    world.add(make_shared<sphere>(point3(1,0,-1),0.5,material_metal2));
+    auto material_lambertian2 = make_shared<lambertian>(color(0.1, 0.2, 0.5));
+    auto material_dielectric = make_shared<dielectric>(1.5);
+    auto material_metal = make_shared<metal>(color(0.8, 0.6, 0.2),0.0);
+    world.add(make_shared<sphere>(point3(-1,0,-1),0.5,material_dielectric));
+    world.add(make_shared<sphere>(point3(1,0,-1),0.5,material_metal));
     world.add(make_shared<sphere>(point3(0,0,-1),0.5,material_lambertian2));
     world.add(make_shared<sphere>(point3(0,-100.5,-1),100,material_lambertian1));
     // camera

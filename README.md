@@ -41,4 +41,14 @@
   <td width="33.3%"><img src="/images/image11.png?raw=true"/></td>
   <td width="33.3%"><img src="/images/image12.png?raw=true"/></td>
   </tr>
+  <tr>
+  <td width="33.3%" align="center">Dielectric Material</td>
+  <td width="33.3%" align="center"></td>
+  <td width="33.3%" align="center"></td>
+  </tr>
+  <tr>
+  <td width="33.3%"><img src="/images/image13.png?raw=true"/></td>
+  <td width="33.3%"></td>
+  <td width="33.3%"></td>
+  </tr>
 </table>
