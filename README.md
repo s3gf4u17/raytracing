@@ -34,11 +34,11 @@
   <tr>
   <td width="33.3%" align="center">Gamma Correction</td>
   <td width="33.3%" align="center">Shiny Metal Material</td>
-  <td width="33.3%" align="center"></td>
+  <td width="33.3%" align="center">Fuzzed Metal Material</td>
   </tr>
   <tr>
   <td width="33.3%"><img src="/images/image10.png?raw=true"/></td>
   <td width="33.3%"><img src="/images/image11.png?raw=true"/></td>
-  <td width="33.3%"></td>
+  <td width="33.3%"><img src="/images/image11.png?raw=true"/></td>
   </tr>
 </table>
