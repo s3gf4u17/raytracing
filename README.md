@@ -24,7 +24,7 @@
   <tr>
   <td width="33.3%" align="center">Diffuse Material</td>
   <td width="33.3%" align="center">Fix Shadow Acne</td>
-  <td width="33.3%" align="center">Lambertarian Reflection</td>
+  <td width="33.3%" align="center">Lambertian Reflection</td>
   </tr>
   <tr>
   <td width="33.3%"><img src="/images/image7.png?raw=true"/></td>
