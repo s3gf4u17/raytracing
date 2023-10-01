@@ -44,11 +44,11 @@
   <tr>
   <td width="33.3%" align="center">Dielectric Material</td>
   <td width="33.3%" align="center">Schlick Approximation</td>
-  <td width="33.3%" align="center"></td>
+  <td width="33.3%" align="center">Wide Angle View</td>
   </tr>
   <tr>
   <td width="33.3%"><img src="/images/image14.png?raw=true"/></td>
   <td width="33.3%"><img src="/images/image15.png?raw=true"/></td>
-  <td width="33.3%"></td>
+  <td width="33.3%"><img src="/images/image16.png?raw=true"/></td>
   </tr>
 </table>
